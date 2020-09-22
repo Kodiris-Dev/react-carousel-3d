@@ -1,7 +1,7 @@
 {
-  "name": "3d-react-carousal",
+  "name": "kodiris-react-carousal",
   "version": "3.1.0",
-  "description": "3D carousel in react",
+  "description": "3D carousel in react modified by Kodiris",
   "main": "dist/index.js",
   "peerDependencies": {
     "react": "^16.7.0",
