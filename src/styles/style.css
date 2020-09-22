@@ -88,10 +88,10 @@
     color: #ffffff;
     transform: translateY(-50%);
     padding: 20px 15px;
-    border-top: 2px solid #fdc84b;
-    border-right: 2px solid #fdc84b;
-    border-bottom: 2px solid #fdc84b;
-    border-left: 2px solid #fdc84b;
+    border-top: 2px solid #7DBCC9;
+    border-right: 2px solid #7DBCC9;
+    border-bottom: 2px solid #7DBCC9;
+    border-left: 2px solid #7DBCC9;
     margin-right: -2px;
   }
   .slider-container .slider-right {
@@ -103,10 +103,10 @@
     color: #ffffff;
     transform: translateY(-50%);
     padding: 20px 15px;
-    border-top: 2px solid #fdc84b;
-    border-right: 2px solid #fdc84b;
-    border-bottom: 2px solid #fdc84b;
-    border-left: 2px solid #fdc84b;
+    border-top: 2px solid #7DBCC9;
+    border-right: 2px solid #7DBCC9;
+    border-bottom: 2px solid #7DBCC9;
+    border-left: 2px solid #7DBCC9;
     margin-left: -2px;
   }
   
